@@ -11,9 +11,9 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By AnonHacker
-Channel: youtube.com/kalinuxx
-Facebook: facebook.com/kalinuxtutorials
+Created By @Silent_anons ( instagram )
+Channel: https://m.facebook.com/armyanons/
+Instagram : @Silent_anons ( others is fake )
 Ver: 2.0
 ----
 ONLY FOR TERMUX!
@@ -24,13 +24,13 @@ ONLY FOR TERMUX!
 1. Install Nmap 
 2. Install Hydra
 3. Install SQLMap
-4. Install Metasploit
+4. Install Matesploit
 5. Install ngrok
 6. Install Kali Nethunter
 7. Install angryFuzzer
 8. Install Red_Hawk
 9. Install Weeman
-10. Install IPGeoLocation
+10. Install IPGeoLocation ( trace IP Address )
 11. Install Cupp
 12. Instagram Bruteforcer (instahack)
 13. Twitter Bruteforcer   (TwitterSniper)
