@@ -12,7 +12,9 @@ INSTAGRAM : https://www.instagram.com/silent_anons/
 Watch Video: https://www.youtube.com/watch?v=8KvY2NM47ZM
 ```
 git clone https://github.com/AnonHackerr/toolss.git
-cd toolss
+ls
+cd Silent
+Ls
 chmod +x Tools.py
 python Tools.py
 ``` welcome 😄
